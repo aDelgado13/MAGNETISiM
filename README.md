@@ -33,7 +33,6 @@ As a power electronics engineer or researcher, designing magnetics often involve
 
 Everything you need to design, simulate, and export, unified in one logical workflow:
 
-```text
 ┌─────────────────────────────────────────────────────────────────┐
 │                        MAGNETISiM Workflow                      │
 ├─────────────────────────────────────────────────────────────────┤

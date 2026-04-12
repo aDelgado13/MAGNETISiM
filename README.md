@@ -33,6 +33,7 @@ As a power electronics engineer or researcher, designing magnetics often involve
 
 Everything you need to design, simulate, and export, unified in one logical workflow:
 
+```text
 ┌─────────────────────────────────────────────────────────────────┐
 │                        MAGNETISiM Workflow                      │
 ├─────────────────────────────────────────────────────────────────┤
@@ -52,6 +53,7 @@ Everything you need to design, simulate, and export, unified in one logical work
 │  ├── Loss Analysis: Core & Winding power dissipation breakdown  │
 │  └── Thermal Profile: Estimated temperature rise (in comming)   │
 └─────────────────────────────────────────────────────────────────┘
+```
 
 ## 🚀 Getting Started & Examples
 

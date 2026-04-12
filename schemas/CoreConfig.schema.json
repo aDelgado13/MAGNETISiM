@@ -1,6 +1,6 @@
 {
     "$schema": "https://json-schema.org/draft/2020-12/schema",
-    "$id": "http://tusitio.com/schemas/core.schema.json",
+    "$id": "https://github.com/aDelgado13/MAGNETISiM/tree/main/schemas",
     "title": "Magnetic Core Geometry",
     "type": "object",
     "properties": {

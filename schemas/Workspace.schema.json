@@ -1,6 +1,6 @@
 {
     "$schema": "https://json-schema.org/draft/2020-12/schema",
-    "$id": "http://tusitio.com/schemas/workspace.schema.json",
+    "$id": "https://github.com/aDelgado13/MAGNETISiM/tree/main/schemas",
     "title": "Workspace Data",
     "description": "Estructura principal del espacio de trabajo que contiene geometría y materiales de núcleo y devanados.",
     "type": "object",

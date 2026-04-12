@@ -1,0 +1,14 @@
+{
+    "SimName": "MAGNETISiM_file",
+    "MagnetCheck": true,
+    "maxError": 1e-08,
+    "NominalFreq": 50.0,
+    "ACType": "Waveform",
+    "SweepType": "Nominal",
+    "f_min": 1.0,
+    "f_max": 100.0,
+    "n_points": 3,
+    "NomIncluded": false,
+    "WaveformAC": "Square",
+    "nHarm": 3
+}

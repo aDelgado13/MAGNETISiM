@@ -1,0 +1,208 @@
+{
+    "DataCoreGeo": {
+        "Manufacturer": "Ferroxcube",
+        "MagCore": "U",
+        "Reference": "U67/27/14",
+        "A": 5.0,
+        "B": 3.0,
+        "Bp": 0.0,
+        "C": 0.0,
+        "Cp": 0.0,
+        "D": 2.0,
+        "E": 0.6,
+        "F": 5.0,
+        "G": 0.0,
+        "I": 0.0,
+        "Gap": 0.0,
+        "CoreType": [
+            "XY",
+            "2LEG",
+            "SET"
+        ]
+    },
+    "DataCoreMat": {
+        "Material": "3C96",
+        "muR": 2000.0,
+        "muI": 0.0,
+        "Cond": 0.3333333333333333,
+        "FreqCurveMu": false,
+        "DebyeParameter": {
+            "Real": {
+                "y0": 20.0997,
+                "A": 2080.4864,
+                "k": 8.1745,
+                "xc": 0.2667
+            },
+            "Imag": {
+                "a1": 2097.2423,
+                "b1": 0.3215,
+                "c1": 0.2308,
+                "a2": 377.4976,
+                "b2": 0.5864,
+                "c2": 0.5162
+            }
+        },
+        "Phi": 0,
+        "Bmax": 0.38,
+        "Steinmetzk": 3.5097e-07,
+        "SteinmetzA": 1.5322,
+        "SteinmetzB": 2.7182,
+        "Steinmetz": {
+            "k": 3.5097e-07,
+            "alpha": 1.5322,
+            "beta": 2.7182
+        }
+    },
+    "DataWindGeo": {
+        "ConductorType": "PCB",
+        "ClearanceXY_Left": 0.2,
+        "ClearanceXY_Center": 0.0,
+        "ClearanceXY_Right": 0.2,
+        "ClearanceZ_Left": 0.1,
+        "ClearanceZ_Center": 0.0,
+        "ClearanceZ_Right": 0.1,
+        "Nlayers_Left": 5,
+        "Nlayers_Center": 0,
+        "Nlayers_Right": 3,
+        "LayerPitch_Left": [
+            0.1,
+            0.1,
+            0.1,
+            0.1,
+            0.1
+        ],
+        "LayerPitch_Center": [],
+        "LayerPitch_Right": [
+            0.2,
+            0.2,
+            0.2
+        ],
+        "Distribution_Left": "V",
+        "Distribution_Center": "V",
+        "Distribution_Right": "H",
+        "Nturns_Left": [
+            1,
+            4,
+            1,
+            4,
+            1
+        ],
+        "Nturns_Center": [],
+        "Nturns_Right": [
+            1,
+            2,
+            1
+        ],
+        "CopperThickness_Left": [
+            0.105,
+            0.105,
+            0.105,
+            0.105,
+            0.105
+        ],
+        "CopperThickness_Center": [],
+        "CopperThickness_Right": [
+            0.175,
+            0.175,
+            0.175
+        ],
+        "WidthCopper_Left": [
+            1.1,
+            0.2,
+            1.1,
+            0.2,
+            1.1
+        ],
+        "WidthCopper_Center": [],
+        "WidthCopper_Right": [
+            1.0,
+            0.475,
+            1.0
+        ],
+        "CopperRadius_Left": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "CopperRadius_Center": [],
+        "CopperRadius_Right": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "StrandRadius_Left": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "StrandRadius_Center": [],
+        "StrandRadius_Right": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "StrandNumber_Left": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "StrandNumber_Center": [],
+        "StrandNumber_Right": [
+            0,
+            0,
+            0
+        ],
+        "PackingFactor_Left": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "PackingFactor_Center": [],
+        "PackingFactor_Right": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "Pitch_Left": [
+            0.1,
+            0.1,
+            0.1,
+            0.1,
+            0.1
+        ],
+        "Pitch_Center": [],
+        "Pitch_Right": [
+            1.0,
+            0.05,
+            1.0
+        ],
+        "Edge_Left": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "Edge_Center": [],
+        "Edge_Right": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "DataWindMat": {
+        "Material": "Copper",
+        "muR": 1.0,
+        "muI": 0.0,
+        "Cond": 58.0,
+        "Phi": 0
+    }
+}

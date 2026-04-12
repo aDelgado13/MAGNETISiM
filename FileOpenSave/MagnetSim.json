@@ -1,0 +1,14 @@
+{
+    "SimName": "MagnetSim_File",
+    "MagnetCheck": true,
+    "maxError": 1e-08,
+    "NominalFreq": 25.0,
+    "ACType": "Frequency Range",
+    "SweepType": "Logarithmic",
+    "f_min": 10.0,
+    "f_max": 50.0,
+    "n_points": 2,
+    "NomIncluded": true,
+    "WaveformAC": "Triangle",
+    "nHarm": 1
+}

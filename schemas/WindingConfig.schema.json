@@ -1,0 +1,19 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "http://tusitio.com/schemas/winding.schema.json",
+    "title": "Winding Geometry",
+    "type": "object",
+    "patternProperties": {
+        "^Clearance(XY|Z)_(Left|Center|Right)$": { "type": "number" },
+        "^Nlayers_(Left|Center|Right)$": { "type": "integer" },
+        "^Distribution_(Left|Center|Right)$": { "type": "string", "enum": ["V", "H", ""] },
+        "^(LayerPitch|Nturns|CopperThickness|WidthCopper|CopperRadius|StrandRadius|StrandNumber|PackingFactor|Pitch|Edge)_(Left|Center|Right)$": {
+            "type": "array",
+            "items": { "type": "number" }
+        }
+    },
+    "properties": {
+        "ConductorType": { "type": "string" }
+    },
+    "required": ["ConductorType"]
+}

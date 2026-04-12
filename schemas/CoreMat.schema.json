@@ -1,0 +1,52 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "http://tusitio.com/schemas/coremat.schema.json",
+    "title": "Core Material Properties",
+    "type": "object",
+    "properties": {
+        "Material": { "type": "string" },
+        "muR": { "type": "number" },
+        "muI": { "type": "number" },
+        "Cond": { "type": "number" },
+        "FreqCurveMu": { "type": "boolean" },
+        "DebyeParameter": {
+            "type": "object",
+            "properties": {
+                "Real": {
+                    "type": "object",
+                    "properties": {
+                        "y0": { "type": "number" },
+                        "A": { "type": "number" },
+                        "k": { "type": "number" },
+                        "xc": { "type": "number" }
+                    }
+                },
+                "Imag": {
+                    "type": "object",
+                    "properties": {
+                        "a1": { "type": "number" },
+                        "b1": { "type": "number" },
+                        "c1": { "type": "number" },
+                        "a2": { "type": "number" },
+                        "b2": { "type": "number" },
+                        "c2": { "type": "number" }
+                    }
+                }
+            }
+        },
+        "Phi": { "type": "number" },
+        "Bmax": { "type": "number" },
+        "Steinmetzk": { "type": "number" },
+        "SteinmetzA": { "type": "number" },
+        "SteinmetzB": { "type": "number" },
+        "Steinmetz": {
+            "type": "object",
+            "properties": {
+                "k": { "type": "number" },
+                "alpha": { "type": "number" },
+                "beta": { "type": "number" }
+            }
+        }
+    },
+    "required": ["Material", "muR"]
+}

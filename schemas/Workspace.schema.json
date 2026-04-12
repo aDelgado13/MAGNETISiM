@@ -1,0 +1,26 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "http://tusitio.com/schemas/workspace.schema.json",
+    "title": "Workspace Data",
+    "description": "Estructura principal del espacio de trabajo que contiene geometría y materiales de núcleo y devanados.",
+    "type": "object",
+    "properties": {
+        "DataCoreGeo": {
+            "description": "Datos de la geometría del núcleo magnético",
+            "$ref": "./core.schema.json"
+        },
+        "DataCoreMat": {
+            "description": "Datos de las propiedades del material del núcleo",
+            "$ref": "./coremat.schema.json"
+        },
+        "DataWindGeo": {
+            "description": "Datos de la geometría de los devanados",
+            "$ref": "./winding.schema.json"
+        },
+        "DataWindMat": {
+            "description": "Datos del material de los devanados",
+            "$ref": "./windingmat.schema.json"
+        }
+    },
+    "required": ["DataCoreGeo", "DataCoreMat", "DataWindGeo", "DataWindMat"]
+}

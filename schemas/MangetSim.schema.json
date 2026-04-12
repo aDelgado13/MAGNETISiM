@@ -1,0 +1,21 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "http://tusitio.com/schemas/magnetsim.schema.json",
+    "title": "Simulation Settings",
+    "type": "object",
+    "properties": {
+        "SimName": { "type": "string" },
+        "MagnetCheck": { "type": "boolean" },
+        "maxError": { "type": "number" },
+        "NominalFreq": { "type": "number" },
+        "ACType": { "type": "string" },
+        "SweepType": { "type": "string" },
+        "f_min": { "type": "number" },
+        "f_max": { "type": "number" },
+        "n_points": { "type": "integer" },
+        "NomIncluded": { "type": "boolean" },
+        "WaveformAC": { "type": "string" },
+        "nHarm": { "type": "integer" }
+    },
+    "required": ["SimName", "NominalFreq"]
+}

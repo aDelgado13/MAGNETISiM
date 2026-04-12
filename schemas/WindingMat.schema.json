@@ -1,0 +1,14 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "http://tusitio.com/schemas/windingmat.schema.json",
+    "title": "Winding Material Properties",
+    "type": "object",
+    "properties": {
+        "Material": { "type": "string" },
+        "muR": { "type": "number" },
+        "muI": { "type": "number" },
+        "Cond": { "type": "number" },
+        "Phi": { "type": "number" }
+    },
+    "required": ["Material", "Cond"]
+}

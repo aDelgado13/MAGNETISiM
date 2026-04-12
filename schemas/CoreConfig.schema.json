@@ -1,0 +1,27 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "http://tusitio.com/schemas/core.schema.json",
+    "title": "Magnetic Core Geometry",
+    "type": "object",
+    "properties": {
+        "Manufacturer": { "type": "string" },
+        "MagCore": { "type": "string" },
+        "Reference": { "type": "string" },
+        "A": { "type": "number" },
+        "B": { "type": "number" },
+        "Bp": { "type": "number" },
+        "C": { "type": "number" },
+        "Cp": { "type": "number" },
+        "D": { "type": "number" },
+        "E": { "type": "number" },
+        "F": { "type": "number" },
+        "G": { "type": "number" },
+        "I": { "type": "number" },
+        "Gap": { "type": "number" },
+        "CoreType": {
+            "type": "array",
+            "items": { "type": "string" }
+        }
+    },
+    "required": ["Manufacturer", "MagCore", "Reference"]
+}

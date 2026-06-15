@@ -6,7 +6,7 @@
   *A modular platform for fast, reproducible electromagnetic modeling for education, research, and industry.*
 
   [![Website](https://img.shields.io/badge/Website-magnetisim.com-blue?style=flat-square)](https://www.magnetisim.com)
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0)
 </div>
 
 ---

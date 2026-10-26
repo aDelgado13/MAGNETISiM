@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 470" width="820" height="470" role="img" aria-label="IPT pads: IPTXY (A, C, Cp, F, G, I, Gap) and IPTRZ (A, C, Cp, I)">
+  <title>IPT pads: IPTXY (A, C, Cp, F, G, I, Gap) and IPTRZ (A, C, Cp, I)</title>
+  <rect width="820" height="470" rx="10" fill="#FFFFFF"/>
+  <rect x="40.00" y="120.00" width="240.00" height="22.00" fill="#B9CCC4" stroke="#3F5E54" stroke-width="1.4" />
+  <rect x="65.00" y="142.00" width="65.00" height="26.00" fill="#C9A0A6" stroke="#7A1F2B" stroke-width="1.2" />
+  <rect x="190.00" y="142.00" width="65.00" height="26.00" fill="#C9A0A6" stroke="#7A1F2B" stroke-width="1.2" />
+  <rect x="65.00" y="238.00" width="65.00" height="26.00" fill="#C9A0A6" stroke="#7A1F2B" stroke-width="1.2" />
+  <rect x="190.00" y="238.00" width="65.00" height="26.00" fill="#C9A0A6" stroke="#7A1F2B" stroke-width="1.2" />
+  <rect x="40.00" y="264.00" width="240.00" height="22.00" fill="#B9CCC4" stroke="#3F5E54" stroke-width="1.4" />
+  <line x1="40.00" y1="120.00" x2="40.00" y2="100.00" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="280.00" y1="120.00" x2="280.00" y2="100.00" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="40.00" y1="106.00" x2="280.00" y2="106.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M40.00,106.00 L49.00,102.40 L49.00,109.60 Z" fill="#7A1F2B"/>
+  <path d="M280.00,106.00 L271.00,109.60 L271.00,102.40 Z" fill="#7A1F2B"/>
+  <text x="160.00" y="99.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="middle" font-weight="600">A</text>
+  <line x1="65.00" y1="264.00" x2="65.00" y2="322.00" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="255.00" y1="264.00" x2="255.00" y2="322.00" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="65.00" y1="316.00" x2="255.00" y2="316.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M65.00,316.00 L74.00,312.40 L74.00,319.60 Z" fill="#7A1F2B"/>
+  <path d="M255.00,316.00 L246.00,319.60 L246.00,312.40 Z" fill="#7A1F2B"/>
+  <text x="160.00" y="334.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="middle" font-weight="600">C</text>
+  <line x1="130.00" y1="256.00" x2="190.00" y2="256.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M130.00,256.00 L139.00,252.40 L139.00,259.60 Z" fill="#7A1F2B"/>
+  <path d="M190.00,256.00 L181.00,259.60 L181.00,252.40 Z" fill="#7A1F2B"/>
+  <text x="160.00" y="249.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="middle" font-weight="600">Cp</text>
+  <line x1="300.00" y1="168.00" x2="300.00" y2="238.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M300.00,168.00 L303.60,177.00 L296.40,177.00 Z" fill="#7A1F2B"/>
+  <path d="M300.00,238.00 L296.40,229.00 L303.60,229.00 Z" fill="#7A1F2B"/>
+  <text x="308.00" y="208.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="start" font-weight="600">Gap</text>
+  <line x1="22.00" y1="120.00" x2="22.00" y2="142.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M22.00,120.00 L25.60,129.00 L18.40,129.00 Z" fill="#7A1F2B"/>
+  <path d="M22.00,142.00 L18.40,133.00 L25.60,133.00 Z" fill="#7A1F2B"/>
+  <text x="14.00" y="136.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="end" font-weight="600">I</text>
+  <text x="160.00" y="40.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#6B7378" text-anchor="middle" font-weight="500">IPTXY, front view</text>
+  <rect x="325.00" y="120.00" width="150.00" height="22.00" fill="#B9CCC4" stroke="#3F5E54" stroke-width="1.4" />
+  <rect x="350.00" y="142.00" width="100.00" height="26.00" fill="#C9A0A6" stroke="#7A1F2B" stroke-width="1.2" />
+  <rect x="350.00" y="238.00" width="100.00" height="26.00" fill="#C9A0A6" stroke="#7A1F2B" stroke-width="1.2" />
+  <rect x="325.00" y="264.00" width="150.00" height="22.00" fill="#B9CCC4" stroke="#3F5E54" stroke-width="1.4" />
+  <line x1="325.00" y1="120.00" x2="325.00" y2="100.00" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="475.00" y1="120.00" x2="475.00" y2="100.00" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="325.00" y1="106.00" x2="475.00" y2="106.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M325.00,106.00 L334.00,102.40 L334.00,109.60 Z" fill="#7A1F2B"/>
+  <path d="M475.00,106.00 L466.00,109.60 L466.00,102.40 Z" fill="#7A1F2B"/>
+  <text x="400.00" y="99.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="middle" font-weight="600">G</text>
+  <line x1="350.00" y1="264.00" x2="350.00" y2="322.00" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="450.00" y1="264.00" x2="450.00" y2="322.00" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="350.00" y1="316.00" x2="450.00" y2="316.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M350.00,316.00 L359.00,312.40 L359.00,319.60 Z" fill="#7A1F2B"/>
+  <path d="M450.00,316.00 L441.00,319.60 L441.00,312.40 Z" fill="#7A1F2B"/>
+  <text x="400.00" y="334.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="middle" font-weight="600">F</text>
+  <text x="400.00" y="40.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#6B7378" text-anchor="middle" font-weight="500">side view</text>
+  <line x1="570.00" y1="80.00" x2="570.00" y2="420.00" stroke="#6B7378" stroke-width="1.2" stroke-dasharray="10 5 2 5"/>
+  <rect x="570.00" y="120.00" width="180.00" height="22.00" fill="#B9CCC4" stroke="#3F5E54" stroke-width="1.4" />
+  <rect x="610.00" y="142.00" width="100.00" height="26.00" fill="#C9A0A6" stroke="#7A1F2B" stroke-width="1.2" />
+  <rect x="610.00" y="238.00" width="100.00" height="26.00" fill="#C9A0A6" stroke="#7A1F2B" stroke-width="1.2" />
+  <rect x="570.00" y="264.00" width="180.00" height="22.00" fill="#B9CCC4" stroke="#3F5E54" stroke-width="1.4" />
+  <line x1="750.00" y1="120.00" x2="750.00" y2="100.00" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="570.00" y1="106.00" x2="750.00" y2="106.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M570.00,106.00 L579.00,102.40 L579.00,109.60 Z" fill="#7A1F2B"/>
+  <path d="M750.00,106.00 L741.00,109.60 L741.00,102.40 Z" fill="#7A1F2B"/>
+  <text x="660.00" y="99.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="middle" font-weight="600">A/2</text>
+  <line x1="710.00" y1="264.00" x2="710.00" y2="322.00" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="570.00" y1="316.00" x2="710.00" y2="316.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M570.00,316.00 L579.00,312.40 L579.00,319.60 Z" fill="#7A1F2B"/>
+  <path d="M710.00,316.00 L701.00,319.60 L701.00,312.40 Z" fill="#7A1F2B"/>
+  <text x="640.00" y="334.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="middle" font-weight="600">C/2</text>
+  <line x1="570.00" y1="256.00" x2="610.00" y2="256.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M570.00,256.00 L579.00,252.40 L579.00,259.60 Z" fill="#7A1F2B"/>
+  <path d="M610.00,256.00 L601.00,259.60 L601.00,252.40 Z" fill="#7A1F2B"/>
+  <text x="590.00" y="249.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="middle" font-weight="600">Cp/2</text>
+  <text x="660.00" y="40.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#6B7378" text-anchor="middle" font-weight="500">IPTRZ, half section</text>
+  <text x="410.00" y="455.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#6B7378" text-anchor="middle" font-weight="500">Two ferrite pads (thickness I) with their windings, separated by the Gap.</text>
+</svg>

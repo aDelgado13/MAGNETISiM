@@ -1,0 +1,105 @@
+{
+    "ConductorType": "Round",
+    "ClearanceXY_Left": 0.1,
+    "ClearanceXY_Center": 0.0,
+    "ClearanceXY_Right": 0.1,
+    "ClearanceZ_Left": 0.35,
+    "ClearanceZ_Center": 0.0,
+    "ClearanceZ_Right": 0.35,
+    "Nlayers_Left": 2,
+    "Nlayers_Center": 0,
+    "Nlayers_Right": 2,
+    "LayerPitch_Left": [
+        0.1,
+        0.1
+    ],
+    "LayerPitch_Center": [],
+    "LayerPitch_Right": [
+        0.1,
+        0.1
+    ],
+    "Distribution_Left": "V",
+    "Distribution_Center": "V",
+    "Distribution_Right": "V",
+    "Nturns_Left": [
+        10,
+        10
+    ],
+    "Nturns_Center": [],
+    "Nturns_Right": [
+        10,
+        10
+    ],
+    "CopperThickness_Left": [
+        0.0,
+        0.0
+    ],
+    "CopperThickness_Center": [],
+    "CopperThickness_Right": [
+        0.0,
+        0.0
+    ],
+    "WidthCopper_Left": [
+        0.0,
+        0.0
+    ],
+    "WidthCopper_Center": [],
+    "WidthCopper_Right": [
+        0.0,
+        0.0
+    ],
+    "CopperRadius_Left": [
+        0.1,
+        0.1
+    ],
+    "CopperRadius_Center": [],
+    "CopperRadius_Right": [
+        0.1,
+        0.1
+    ],
+    "StrandRadius_Left": [
+        0.0,
+        0.0
+    ],
+    "StrandRadius_Center": [],
+    "StrandRadius_Right": [
+        0.0,
+        0.0
+    ],
+    "StrandNumber_Left": [
+        0,
+        0
+    ],
+    "StrandNumber_Center": [],
+    "StrandNumber_Right": [
+        0,
+        0
+    ],
+    "PackingFactor_Left": [
+        0.0,
+        0.0
+    ],
+    "PackingFactor_Center": [],
+    "PackingFactor_Right": [
+        0.0,
+        0.0
+    ],
+    "Pitch_Left": [
+        0.1,
+        0.1
+    ],
+    "Pitch_Center": [],
+    "Pitch_Right": [
+        0.1,
+        0.1
+    ],
+    "Edge_Left": [
+        0.0,
+        0.0
+    ],
+    "Edge_Center": [],
+    "Edge_Right": [
+        0.0,
+        0.0
+    ]
+}

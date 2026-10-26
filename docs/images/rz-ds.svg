@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 470" width="820" height="470" role="img" aria-label="DS and HS, top view: round core with two flats">
+  <title>DS and HS, top view: round core with two flats</title>
+  <rect width="820" height="470" rx="10" fill="#FFFFFF"/>
+  <clipPath id="clip-ds"><rect x="85.0" y="130.0" width="330" height="230"/></clipPath>
+  <g clip-path="url(#clip-ds)"><circle cx="250" cy="245" r="165.0" fill="#9DB3AA" stroke="#3F5E54" stroke-width="1.4"/><circle cx="250" cy="245" r="130.0" fill="#FFFFFF" stroke="#3F5E54" stroke-width="1.4"/></g>
+  <line x1="131.68" y1="130.00" x2="189.38" y2="130.00" stroke="#3F5E54" stroke-width="1.4"/>
+  <line x1="310.62" y1="130.00" x2="368.32" y2="130.00" stroke="#3F5E54" stroke-width="1.4"/>
+  <line x1="131.68" y1="360.00" x2="189.38" y2="360.00" stroke="#3F5E54" stroke-width="1.4"/>
+  <line x1="310.62" y1="360.00" x2="368.32" y2="360.00" stroke="#3F5E54" stroke-width="1.4"/>
+  <circle cx="250" cy="245" r="55.0" fill="#9DB3AA" stroke="#3F5E54" stroke-width="1.4"/>
+  <line x1="85.00" y1="245.00" x2="85.00" y2="406.00" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="415.00" y1="245.00" x2="415.00" y2="406.00" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="85.00" y1="400.00" x2="415.00" y2="400.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M85.00,400.00 L94.00,396.40 L94.00,403.60 Z" fill="#7A1F2B"/>
+  <path d="M415.00,400.00 L406.00,403.60 L406.00,396.40 Z" fill="#7A1F2B"/>
+  <text x="250.00" y="418.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="middle" font-weight="600">A</text>
+  <line x1="189.38" y1="130.00" x2="189.38" y2="106.00" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="310.62" y1="130.00" x2="310.62" y2="106.00" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="189.38" y1="112.00" x2="310.62" y2="112.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M189.38,112.00 L198.38,108.40 L198.38,115.60 Z" fill="#7A1F2B"/>
+  <path d="M310.62,112.00 L301.62,115.60 L301.62,108.40 Z" fill="#7A1F2B"/>
+  <text x="250.00" y="105.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="middle" font-weight="600">B</text>
+  <line x1="120.00" y1="265.00" x2="380.00" y2="265.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M120.00,265.00 L129.00,261.40 L129.00,268.60 Z" fill="#7A1F2B"/>
+  <path d="M380.00,265.00 L371.00,268.60 L371.00,261.40 Z" fill="#7A1F2B"/>
+  <text x="250.00" y="283.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="middle" font-weight="600">Bp</text>
+  <line x1="195.00" y1="233.00" x2="305.00" y2="233.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M195.00,233.00 L204.00,229.40 L204.00,236.60 Z" fill="#7A1F2B"/>
+  <path d="M305.00,233.00 L296.00,236.60 L296.00,229.40 Z" fill="#7A1F2B"/>
+  <text x="250.00" y="226.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="middle" font-weight="600">C</text>
+  <line x1="368.32" y1="130.00" x2="449.00" y2="130.00" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="368.32" y1="360.00" x2="449.00" y2="360.00" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="443.00" y1="130.00" x2="443.00" y2="360.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M443.00,130.00 L446.60,139.00 L439.40,139.00 Z" fill="#7A1F2B"/>
+  <path d="M443.00,360.00 L439.40,351.00 L446.60,351.00 Z" fill="#7A1F2B"/>
+  <text x="451.00" y="250.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="start" font-weight="600">F</text>
+  <text x="250.00" y="30.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#6B7378" text-anchor="middle" font-weight="500">Top view of one half</text>
+  <text x="600.00" y="170.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#22262A" text-anchor="start" font-weight="500">F: distance between</text>
+  <text x="600.00" y="193.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#22262A" text-anchor="start" font-weight="500">the two flats.</text>
+  <text x="600.00" y="216.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#22262A" text-anchor="start" font-weight="500"></text>
+  <text x="600.00" y="239.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#22262A" text-anchor="start" font-weight="500">B: opening where the</text>
+  <text x="600.00" y="262.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#22262A" text-anchor="start" font-weight="500">window reaches the flats.</text>
+</svg>

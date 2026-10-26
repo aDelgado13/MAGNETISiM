@@ -1,0 +1,10 @@
+[flake8]
+max-line-length = 100
+extend-ignore = E203
+# Core data and templates do not pass flake8 yet and are not edited in this phase.
+exclude =
+    .git,
+    lib/core,
+    Template,
+    __pycache__,
+    .venv

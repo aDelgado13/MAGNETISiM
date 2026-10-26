@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 420" width="820" height="420" role="img" aria-label="XY core (EL, ELT): G is the depth of the base, F the depth of the centre leg">
+  <title>XY core (EL, ELT): G is the depth of the base, F the depth of the centre leg</title>
+  <rect width="820" height="420" rx="10" fill="#FFFFFF"/>
+  <rect x="95.00" y="105.00" width="330.00" height="230.00" fill="#9DB3AA" stroke="#3F5E54" stroke-width="1.4" />
+  <rect x="125.00" y="105.00" width="270.00" height="230.00" fill="#FFFFFF" stroke="#3F5E54" stroke-width="1.4" />
+  <rect x="220.00" y="155.00" width="80.00" height="130.00" fill="#9DB3AA" stroke="#3F5E54" stroke-width="1.4" />
+  <line x1="95.00" y1="335.00" x2="95.00" y2="375.00" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="425.00" y1="335.00" x2="425.00" y2="375.00" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="95.00" y1="369.00" x2="425.00" y2="369.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M95.00,369.00 L104.00,365.40 L104.00,372.60 Z" fill="#7A1F2B"/>
+  <path d="M425.00,369.00 L416.00,372.60 L416.00,365.40 Z" fill="#7A1F2B"/>
+  <text x="260.00" y="387.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="middle" font-weight="600">A</text>
+  <line x1="125.00" y1="127.00" x2="395.00" y2="127.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M125.00,127.00 L134.00,123.40 L134.00,130.60 Z" fill="#7A1F2B"/>
+  <path d="M395.00,127.00 L386.00,130.60 L386.00,123.40 Z" fill="#7A1F2B"/>
+  <text x="260.00" y="120.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="middle" font-weight="600">B</text>
+  <line x1="220.00" y1="307.00" x2="300.00" y2="307.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M220.00,307.00 L229.00,303.40 L229.00,310.60 Z" fill="#7A1F2B"/>
+  <path d="M300.00,307.00 L291.00,310.60 L291.00,303.40 Z" fill="#7A1F2B"/>
+  <text x="260.00" y="325.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="middle" font-weight="600">C</text>
+  <line x1="425.00" y1="105.00" x2="461.00" y2="105.00" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="425.00" y1="335.00" x2="461.00" y2="335.00" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="455.00" y1="105.00" x2="455.00" y2="335.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M455.00,105.00 L458.60,114.00 L451.40,114.00 Z" fill="#7A1F2B"/>
+  <path d="M455.00,335.00 L451.40,326.00 L458.60,326.00 Z" fill="#7A1F2B"/>
+  <text x="463.00" y="225.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="start" font-weight="600">G</text>
+  <line x1="322.00" y1="155.00" x2="322.00" y2="285.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M322.00,155.00 L325.60,164.00 L318.40,164.00 Z" fill="#7A1F2B"/>
+  <path d="M322.00,285.00 L318.40,276.00 L325.60,276.00 Z" fill="#7A1F2B"/>
+  <text x="330.00" y="225.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="start" font-weight="600">F</text>
+  <text x="260.00" y="40.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#6B7378" text-anchor="middle" font-weight="500">Top view of one half (the window is open at the front and back)</text>
+  <text x="600.00" y="150.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#22262A" text-anchor="start" font-weight="500">Most XY cores: G is</text>
+  <text x="600.00" y="173.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#22262A" text-anchor="start" font-weight="500">not used and F is the</text>
+  <text x="600.00" y="196.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#22262A" text-anchor="start" font-weight="500">depth of the whole core.</text>
+  <text x="600.00" y="219.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#22262A" text-anchor="start" font-weight="500"></text>
+  <text x="600.00" y="242.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#22262A" text-anchor="start" font-weight="500">EL and ELT: the base</text>
+  <text x="600.00" y="265.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#22262A" text-anchor="start" font-weight="500">is deeper than the</text>
+  <text x="600.00" y="288.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#22262A" text-anchor="start" font-weight="500">centre leg, so</text>
+  <text x="600.00" y="311.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#7A1F2B" text-anchor="start" font-weight="600">G = base depth</text>
+  <text x="600.00" y="334.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#7A1F2B" text-anchor="start" font-weight="600">F = centre-leg depth</text>
+</svg>

@@ -1,0 +1,95 @@
+name: Core or material data
+description: Propose a new core reference, a new material, or a correction to the library.
+title: "[Core data]: "
+labels: ["core-data"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please read [CONTRIBUTING.md](https://github.com/aDelgado13/MAGNETISiM/blob/main/CONTRIBUTING.md) first: MAGNETISiM uses its own dimension convention, which is **not** the one in manufacturer catalogues.
+
+        **Do not upload images, plots or tables copied from datasheets.** A link to the public datasheet is enough.
+  - type: dropdown
+    id: request-type
+    attributes:
+      label: Type of request
+      options:
+        - "New reference"
+        - "Correction"
+        - "New material"
+    validations:
+      required: true
+  - type: input
+    id: manufacturer
+    attributes:
+      label: Manufacturer
+      placeholder: "TDK"
+    validations:
+      required: true
+  - type: dropdown
+    id: family
+    attributes:
+      label: Core family
+      description: Leave empty for a new material.
+      options:
+        - "E"
+        - "EI"
+        - "EC"
+        - "EIC"
+        - "EL"
+        - "ELT"
+        - "EPlanar"
+        - "EIPlanar"
+        - "EQ"
+        - "EQPLT"
+        - "EER"
+        - "ERPlanar"
+        - "EIRPlanar"
+        - "ETD"
+        - "U"
+        - "UI"
+        - "P"
+        - "PH"
+        - "PM"
+        - "PQ"
+        - "PQI"
+        - "PT"
+        - "RM"
+        - "DS"
+        - "HS"
+        - "AIRXY"
+        - "AIRRZ"
+        - "IPTXY"
+        - "IPTRZ"
+    validations:
+      required: false
+  - type: input
+    id: reference
+    attributes:
+      label: Reference
+      description: Core part number or material name, as in the datasheet.
+      placeholder: "ETD39"
+    validations:
+      required: true
+  - type: input
+    id: datasheet
+    attributes:
+      label: Link to the public datasheet
+      placeholder: "https://..."
+    validations:
+      required: true
+  - type: textarea
+    id: values
+    attributes:
+      label: Values in the MAGNETISiM convention
+      description: For a core, the dimensions A, B, Bp, C, Cp, D, E, F, G, I and Ae, Ve, Mass as described in CONTRIBUTING.md. For a material, the properties you can take from the datasheet.
+      render: text
+    validations:
+      required: true
+  - type: textarea
+    id: what-is-wrong
+    attributes:
+      label: What is wrong? (corrections only)
+      description: Which value is wrong today, and what it should be.
+    validations:
+      required: false

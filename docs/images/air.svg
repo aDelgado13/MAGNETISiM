@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 430" width="820" height="430" role="img" aria-label="Air-core coils: AIRXY (C, F) and AIRRZ (C)">
+  <title>Air-core coils: AIRXY (C, F) and AIRRZ (C)</title>
+  <rect width="820" height="430" rx="10" fill="#FFFFFF"/>
+  <rect x="65.00" y="135.00" width="50.00" height="170.00" fill="#C9A0A6" stroke="#7A1F2B" stroke-width="1.2" />
+  <rect x="225.00" y="135.00" width="50.00" height="170.00" fill="#C9A0A6" stroke="#7A1F2B" stroke-width="1.2" />
+  <line x1="115.00" y1="220.00" x2="225.00" y2="220.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M115.00,220.00 L124.00,216.40 L124.00,223.60 Z" fill="#7A1F2B"/>
+  <path d="M225.00,220.00 L216.00,223.60 L216.00,216.40 Z" fill="#7A1F2B"/>
+  <text x="170.00" y="213.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="middle" font-weight="600">C</text>
+  <text x="170.00" y="40.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#6B7378" text-anchor="middle" font-weight="500">AIRXY, front view</text>
+  <rect x="315.00" y="135.00" width="90.00" height="170.00" fill="#C9A0A6" stroke="#7A1F2B" stroke-width="1.2" />
+  <line x1="315.00" y1="305.00" x2="315.00" y2="339.00" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="405.00" y1="305.00" x2="405.00" y2="339.00" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="315.00" y1="333.00" x2="405.00" y2="333.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M315.00,333.00 L324.00,329.40 L324.00,336.60 Z" fill="#7A1F2B"/>
+  <path d="M405.00,333.00 L396.00,336.60 L396.00,329.40 Z" fill="#7A1F2B"/>
+  <text x="360.00" y="351.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="middle" font-weight="600">F</text>
+  <text x="360.00" y="40.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#6B7378" text-anchor="middle" font-weight="500">side view</text>
+  <line x1="560.00" y1="80.00" x2="560.00" y2="360.00" stroke="#6B7378" stroke-width="1.2" stroke-dasharray="10 5 2 5"/>
+  <rect x="630.00" y="135.00" width="50.00" height="170.00" fill="#C9A0A6" stroke="#7A1F2B" stroke-width="1.2" />
+  <line x1="560.00" y1="220.00" x2="630.00" y2="220.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M560.00,220.00 L569.00,216.40 L569.00,223.60 Z" fill="#7A1F2B"/>
+  <path d="M630.00,220.00 L621.00,223.60 L621.00,216.40 Z" fill="#7A1F2B"/>
+  <text x="595.00" y="213.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="middle" font-weight="600">C/2</text>
+  <text x="630.00" y="40.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#6B7378" text-anchor="middle" font-weight="500">AIRRZ, half section</text>
+  <text x="410.00" y="405.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#6B7378" text-anchor="middle" font-weight="500">No core: only the winding. C is the inner width (XY) or diameter (RZ) of the winding.</text>
+</svg>

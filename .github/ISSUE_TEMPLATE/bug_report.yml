@@ -1,0 +1,75 @@
+name: Bug report
+description: Something in MAGNETISiM does not work as expected.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a problem. The more precise the steps, the faster we can reproduce it.
+  - type: dropdown
+    id: magnetisim-version
+    attributes:
+      label: MAGNETISiM version
+      description: Shown in Help > About.
+      options:
+        - "2.1.0"
+        - "2.0.0"
+        - "Other"
+    validations:
+      required: true
+  - type: input
+    id: windows-version
+    attributes:
+      label: Windows version
+      placeholder: "Windows 11 24H2, x64 (or ARM)"
+    validations:
+      required: true
+  - type: input
+    id: femm-version
+    attributes:
+      label: FEMM version
+      placeholder: "FEMM 4.2 (21Apr2019)"
+    validations:
+      required: true
+  - type: dropdown
+    id: femm-setup
+    attributes:
+      label: How is FEMM set up?
+      options:
+        - "Installed"
+        - "Portable"
+        - "Not sure"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: What did you do?
+      description: Steps to reproduce the problem.
+      placeholder: |
+        1. Open the project ...
+        2. Select the core ...
+        3. Click ...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect to happen?
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: What happened instead?
+      description: Include the full error message if there is one.
+    validations:
+      required: true
+  - type: textarea
+    id: attachments
+    attributes:
+      label: Attachments
+      description: Drag and drop the project `.zip` or screenshots here.
+    validations:
+      required: false

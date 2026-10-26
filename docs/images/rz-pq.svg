@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 470" width="820" height="470" role="img" aria-label="PQ and PQI, top view: G is the width of the bottom of the notch">
+  <title>PQ and PQI, top view: G is the width of the bottom of the notch</title>
+  <rect width="820" height="470" rx="10" fill="#FFFFFF"/>
+  <clipPath id="clip-pq"><rect x="82.55" y="126.50" width="354.90" height="247.00"/></clipPath>
+  <rect x="82.55" y="126.50" width="354.90" height="247.00" fill="#9DB3AA" stroke="#3F5E54" stroke-width="1.4" />
+  <g clip-path="url(#clip-pq)"><circle cx="260" cy="250" r="146.25" fill="#FFFFFF" stroke="#3F5E54" stroke-width="1.4"/><path d="M221.00,172.00 L159.25,122.50 L360.75,122.50 L299.00,172.00 Z" fill="#FFFFFF" stroke="#3F5E54" stroke-width="1.4"/><path d="M221.00,328.00 L159.25,377.50 L360.75,377.50 L299.00,328.00 Z" fill="#FFFFFF" stroke="#3F5E54" stroke-width="1.4"/></g>
+  <circle cx="260" cy="250" r="78.00" fill="#9DB3AA" stroke="#3F5E54" stroke-width="1.4"/>
+  <line x1="82.55" y1="373.50" x2="82.55" y2="415.50" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="437.45" y1="373.50" x2="437.45" y2="415.50" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="82.55" y1="409.50" x2="437.45" y2="409.50" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M82.55,409.50 L91.55,405.90 L91.55,413.10 Z" fill="#7A1F2B"/>
+  <path d="M437.45,409.50 L428.45,413.10 L428.45,405.90 Z" fill="#7A1F2B"/>
+  <text x="260.00" y="427.50" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="middle" font-weight="600">A</text>
+  <line x1="159.25" y1="126.50" x2="159.25" y2="102.50" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="360.75" y1="126.50" x2="360.75" y2="102.50" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="159.25" y1="108.50" x2="360.75" y2="108.50" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M159.25,108.50 L168.25,104.90 L168.25,112.10 Z" fill="#7A1F2B"/>
+  <path d="M360.75,108.50 L351.75,112.10 L351.75,104.90 Z" fill="#7A1F2B"/>
+  <text x="260.00" y="101.50" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="middle" font-weight="600">B</text>
+  <line x1="221.00" y1="160.00" x2="299.00" y2="160.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M221.00,160.00 L230.00,156.40 L230.00,163.60 Z" fill="#7A1F2B"/>
+  <path d="M299.00,160.00 L290.00,163.60 L290.00,156.40 Z" fill="#7A1F2B"/>
+  <text x="260.00" y="153.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="middle" font-weight="600">G</text>
+  <line x1="113.75" y1="272.00" x2="406.25" y2="272.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M113.75,272.00 L122.75,268.40 L122.75,275.60 Z" fill="#7A1F2B"/>
+  <path d="M406.25,272.00 L397.25,275.60 L397.25,268.40 Z" fill="#7A1F2B"/>
+  <text x="260.00" y="290.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="middle" font-weight="600">Bp</text>
+  <line x1="437.45" y1="126.50" x2="473.45" y2="126.50" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="437.45" y1="373.50" x2="473.45" y2="373.50" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="467.45" y1="126.50" x2="467.45" y2="373.50" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M467.45,126.50 L471.05,135.50 L463.85,135.50 Z" fill="#7A1F2B"/>
+  <path d="M467.45,373.50 L463.85,364.50 L471.05,364.50 Z" fill="#7A1F2B"/>
+  <text x="475.45" y="255.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="start" font-weight="600">F</text>
+  <text x="260.00" y="40.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#6B7378" text-anchor="middle" font-weight="500">Top view of one half (proportions of a PQ26/20)</text>
+  <text x="600.00" y="190.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#22262A" text-anchor="start" font-weight="500">The notch narrows from</text>
+  <text x="600.00" y="214.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#22262A" text-anchor="start" font-weight="500">B at the edge to G</text>
+  <text x="600.00" y="238.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#22262A" text-anchor="start" font-weight="500">next to the post.</text>
+  <text x="600.00" y="262.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#22262A" text-anchor="start" font-weight="500"></text>
+  <text x="600.00" y="286.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#22262A" text-anchor="start" font-weight="500">C is the post diameter,</text>
+  <text x="600.00" y="310.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#22262A" text-anchor="start" font-weight="500">as in every RZ core.</text>
+</svg>

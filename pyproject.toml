@@ -1,0 +1,7 @@
+[tool.black]
+line-length = 100
+# Core data and templates are not reformatted in this phase.
+extend-exclude = "^/(lib/core|Template)/"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 430" width="820" height="430" role="img" aria-label="XY core with plate (EI): dimension I">
+  <title>XY core with plate (EI): dimension I</title>
+  <rect width="820" height="430" rx="10" fill="#FFFFFF"/>
+  <rect x="65.00" y="126.00" width="330.00" height="40.00" fill="#B9CCC4" stroke="#3F5E54" stroke-width="1.4" />
+  <path d="M65.00,174.00 L110.00,174.00 L110.00,254.00 L190.00,254.00 L190.00,174.00 L270.00,174.00 L270.00,254.00 L350.00,254.00 L350.00,174.00 L395.00,174.00 L395.00,294.00 L65.00,294.00 Z" fill="#9DB3AA" stroke="#3F5E54" stroke-width="1.4" />
+  <line x1="395.00" y1="126.00" x2="431.00" y2="126.00" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="395.00" y1="166.00" x2="431.00" y2="166.00" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="425.00" y1="126.00" x2="425.00" y2="166.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M425.00,126.00 L428.60,135.00 L421.40,135.00 Z" fill="#7A1F2B"/>
+  <path d="M425.00,166.00 L421.40,157.00 L428.60,157.00 Z" fill="#7A1F2B"/>
+  <text x="433.00" y="151.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="start" font-weight="600">I</text>
+  <line x1="395.00" y1="294.00" x2="431.00" y2="294.00" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="425.00" y1="174.00" x2="425.00" y2="294.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M425.00,174.00 L428.60,183.00 L421.40,183.00 Z" fill="#7A1F2B"/>
+  <path d="M425.00,294.00 L421.40,285.00 L428.60,285.00 Z" fill="#7A1F2B"/>
+  <text x="433.00" y="239.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="start" font-weight="600">D</text>
+  <line x1="332.00" y1="174.00" x2="332.00" y2="254.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M332.00,174.00 L335.60,183.00 L328.40,183.00 Z" fill="#7A1F2B"/>
+  <path d="M332.00,254.00 L328.40,245.00 L335.60,245.00 Z" fill="#7A1F2B"/>
+  <text x="324.00" y="219.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="end" font-weight="600">E</text>
+  <line x1="65.00" y1="294.00" x2="65.00" y2="334.00" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="395.00" y1="294.00" x2="395.00" y2="334.00" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="65.00" y1="328.00" x2="395.00" y2="328.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M65.00,328.00 L74.00,324.40 L74.00,331.60 Z" fill="#7A1F2B"/>
+  <path d="M395.00,328.00 L386.00,331.60 L386.00,324.40 Z" fill="#7A1F2B"/>
+  <text x="230.00" y="346.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="middle" font-weight="600">A</text>
+  <text x="230.00" y="40.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#6B7378" text-anchor="middle" font-weight="500">E piece + I plate (WITH_I): EI, EIPlanar, UI, EQPLT, PQI…</text>
+  <rect x="585.00" y="126.00" width="110.00" height="40.00" fill="#B9CCC4" stroke="#3F5E54" stroke-width="1.4" />
+  <rect x="585.00" y="174.00" width="110.00" height="120.00" fill="#9DB3AA" stroke="#3F5E54" stroke-width="1.4" />
+  <line x1="585.00" y1="294.00" x2="585.00" y2="334.00" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="695.00" y1="294.00" x2="695.00" y2="334.00" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="585.00" y1="328.00" x2="695.00" y2="328.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M585.00,328.00 L594.00,324.40 L594.00,331.60 Z" fill="#7A1F2B"/>
+  <path d="M695.00,328.00 L686.00,331.60 L686.00,324.40 Z" fill="#7A1F2B"/>
+  <text x="640.00" y="346.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="middle" font-weight="600">F</text>
+  <text x="640.00" y="40.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#6B7378" text-anchor="middle" font-weight="500">Side view</text>
+</svg>

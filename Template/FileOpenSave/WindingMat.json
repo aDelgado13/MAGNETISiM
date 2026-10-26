@@ -1,0 +1,21 @@
+{
+    "Material": "Copper",
+    "muR": 1.0,
+    "muI": 0.0,
+    "Cond": 58.0,
+    "Phi": 0,
+    "FreqCurveEps": false,
+    "Insulation": {
+        "Material": "Kapton",
+        "epsR": 3.4,
+        "tanDelta": 0.003,
+        "DebyeEps": null
+    },
+    "Coating": {
+        "Material": "NomexT410Coating",
+        "epsR": 2.4,
+        "tanDelta": 0.007,
+        "Thickness": 0.01,
+        "DebyeEps": null
+    }
+}

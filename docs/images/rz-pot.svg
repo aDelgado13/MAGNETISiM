@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 470" width="820" height="470" role="img" aria-label="P, PT and PH, top view: round core with two slots of width B">
+  <title>P, PT and PH, top view: round core with two slots of width B</title>
+  <rect width="820" height="470" rx="10" fill="#FFFFFF"/>
+  <clipPath id="clip-pot"><circle cx="250" cy="240" r="165.0"/></clipPath>
+  <circle cx="250" cy="240" r="165.0" fill="#9DB3AA" stroke="#3F5E54" stroke-width="1.4"/>
+  <g clip-path="url(#clip-pot)"><circle cx="250" cy="240" r="125.0" fill="#FFFFFF" stroke="#3F5E54" stroke-width="1.4"/><rect x="83.0" y="208.0" width="334" height="64" fill="#FFFFFF"/></g>
+  <circle cx="250" cy="240" r="60.0" fill="#9DB3AA" stroke="#3F5E54" stroke-width="1.4"/>
+  <circle cx="250" cy="240" r="27.0" fill="#FFFFFF" stroke="#3F5E54" stroke-width="1.2"/>
+  <line x1="85.00" y1="240.00" x2="85.00" y2="441.00" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="415.00" y1="240.00" x2="415.00" y2="441.00" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="85.00" y1="435.00" x2="415.00" y2="435.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M85.00,435.00 L94.00,431.40 L94.00,438.60 Z" fill="#7A1F2B"/>
+  <path d="M415.00,435.00 L406.00,438.60 L406.00,431.40 Z" fill="#7A1F2B"/>
+  <text x="250.00" y="453.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="middle" font-weight="600">A</text>
+  <line x1="125.00" y1="180.00" x2="375.00" y2="180.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M125.00,180.00 L134.00,176.40 L134.00,183.60 Z" fill="#7A1F2B"/>
+  <path d="M375.00,180.00 L366.00,183.60 L366.00,176.40 Z" fill="#7A1F2B"/>
+  <text x="250.00" y="173.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="middle" font-weight="600">Bp</text>
+  <line x1="190.00" y1="318.00" x2="310.00" y2="318.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M190.00,318.00 L199.00,314.40 L199.00,321.60 Z" fill="#7A1F2B"/>
+  <path d="M310.00,318.00 L301.00,321.60 L301.00,314.40 Z" fill="#7A1F2B"/>
+  <text x="250.00" y="336.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="middle" font-weight="600">C</text>
+  <line x1="223.00" y1="232.00" x2="277.00" y2="232.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M223.00,232.00 L232.00,228.40 L232.00,235.60 Z" fill="#7A1F2B"/>
+  <path d="M277.00,232.00 L268.00,235.60 L268.00,228.40 Z" fill="#7A1F2B"/>
+  <text x="250.00" y="225.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="middle" font-weight="600">Cp</text>
+  <line x1="385.00" y1="208.00" x2="451.00" y2="208.00" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="385.00" y1="272.00" x2="451.00" y2="272.00" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="445.00" y1="208.00" x2="445.00" y2="272.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M445.00,208.00 L448.60,217.00 L441.40,217.00 Z" fill="#7A1F2B"/>
+  <path d="M445.00,272.00 L441.40,263.00 L448.60,263.00 Z" fill="#7A1F2B"/>
+  <text x="453.00" y="245.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="start" font-weight="600">B</text>
+  <text x="250.00" y="30.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#6B7378" text-anchor="middle" font-weight="500">Top view of one half</text>
+  <text x="600.00" y="150.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#22262A" text-anchor="start" font-weight="500">B: width of the slots where</text>
+  <text x="600.00" y="173.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#22262A" text-anchor="start" font-weight="500">the wires leave the core.</text>
+  <text x="600.00" y="196.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#22262A" text-anchor="start" font-weight="500"></text>
+  <text x="600.00" y="219.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#22262A" text-anchor="start" font-weight="500">Cp: hole of the centre post</text>
+  <text x="600.00" y="242.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#22262A" text-anchor="start" font-weight="500">(0 if it has none).</text>
+  <text x="600.00" y="265.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#22262A" text-anchor="start" font-weight="500"></text>
+  <text x="600.00" y="288.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#22262A" text-anchor="start" font-weight="500">PT and PH follow the</text>
+  <text x="600.00" y="311.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#22262A" text-anchor="start" font-weight="500">same drawing.</text>
+</svg>

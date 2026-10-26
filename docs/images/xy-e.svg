@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 470" width="820" height="470" role="img" aria-label="XY core (E): dimensions A, B, C, D, E and F">
+  <title>XY core (E): dimensions A, B, C, D, E and F</title>
+  <rect width="820" height="470" rx="10" fill="#FFFFFF"/>
+  <path d="M65.00,226.00 L110.00,226.00 L110.00,146.00 L190.00,146.00 L190.00,226.00 L270.00,226.00 L270.00,146.00 L350.00,146.00 L350.00,226.00 L395.00,226.00 L395.00,106.00 L65.00,106.00 Z" fill="#9DB3AA" stroke="#3F5E54" stroke-width="1.4" />
+  <path d="M65.00,234.00 L110.00,234.00 L110.00,314.00 L190.00,314.00 L190.00,234.00 L270.00,234.00 L270.00,314.00 L350.00,314.00 L350.00,234.00 L395.00,234.00 L395.00,354.00 L65.00,354.00 Z" fill="#9DB3AA" stroke="#3F5E54" stroke-width="1.4" />
+  <line x1="65.00" y1="354.00" x2="65.00" y2="394.00" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="395.00" y1="354.00" x2="395.00" y2="394.00" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="65.00" y1="388.00" x2="395.00" y2="388.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M65.00,388.00 L74.00,384.40 L74.00,391.60 Z" fill="#7A1F2B"/>
+  <path d="M395.00,388.00 L386.00,391.60 L386.00,384.40 Z" fill="#7A1F2B"/>
+  <text x="230.00" y="406.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="middle" font-weight="600">A</text>
+  <line x1="110.00" y1="168.00" x2="350.00" y2="168.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M110.00,168.00 L119.00,164.40 L119.00,171.60 Z" fill="#7A1F2B"/>
+  <path d="M350.00,168.00 L341.00,171.60 L341.00,164.40 Z" fill="#7A1F2B"/>
+  <text x="230.00" y="186.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="middle" font-weight="600">B</text>
+  <line x1="190.00" y1="258.00" x2="270.00" y2="258.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M190.00,258.00 L199.00,254.40 L199.00,261.60 Z" fill="#7A1F2B"/>
+  <path d="M270.00,258.00 L261.00,261.60 L261.00,254.40 Z" fill="#7A1F2B"/>
+  <text x="230.00" y="251.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="middle" font-weight="600">C</text>
+  <line x1="332.00" y1="234.00" x2="332.00" y2="314.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M332.00,234.00 L335.60,243.00 L328.40,243.00 Z" fill="#7A1F2B"/>
+  <path d="M332.00,314.00 L328.40,305.00 L335.60,305.00 Z" fill="#7A1F2B"/>
+  <text x="324.00" y="279.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="end" font-weight="600">E</text>
+  <line x1="395.00" y1="234.00" x2="431.00" y2="234.00" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="395.00" y1="354.00" x2="431.00" y2="354.00" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="425.00" y1="234.00" x2="425.00" y2="354.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M425.00,234.00 L428.60,243.00 L421.40,243.00 Z" fill="#7A1F2B"/>
+  <path d="M425.00,354.00 L421.40,345.00 L428.60,345.00 Z" fill="#7A1F2B"/>
+  <text x="433.00" y="299.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="start" font-weight="600">D</text>
+  <text x="51.00" y="235.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#7A1F2B" text-anchor="end" font-weight="500">Gap</text>
+  <text x="230.00" y="40.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#6B7378" text-anchor="middle" font-weight="500">Front view: the plane FEMM simulates (XY)</text>
+  <rect x="585.00" y="106.00" width="110.00" height="120.00" fill="#9DB3AA" stroke="#3F5E54" stroke-width="1.4" />
+  <rect x="585.00" y="234.00" width="110.00" height="120.00" fill="#9DB3AA" stroke="#3F5E54" stroke-width="1.4" />
+  <line x1="585.00" y1="354.00" x2="585.00" y2="394.00" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="695.00" y1="354.00" x2="695.00" y2="394.00" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="585.00" y1="388.00" x2="695.00" y2="388.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M585.00,388.00 L594.00,384.40 L594.00,391.60 Z" fill="#7A1F2B"/>
+  <path d="M695.00,388.00 L686.00,391.60 L686.00,384.40 Z" fill="#7A1F2B"/>
+  <text x="640.00" y="406.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="middle" font-weight="600">F</text>
+  <text x="640.00" y="40.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#6B7378" text-anchor="middle" font-weight="500">Side view: depth F</text>
+  <text x="640.00" y="62.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#6B7378" text-anchor="middle" font-weight="500">(FEMM depth of the 2D model)</text>
+</svg>

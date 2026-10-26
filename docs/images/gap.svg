@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 470" width="820" height="470" role="img" aria-label="Air gap: three values, left, centre and right leg">
+  <title>Air gap: three values, left, centre and right leg</title>
+  <rect width="820" height="470" rx="10" fill="#FFFFFF"/>
+  <path d="M85.00,227.00 L130.00,227.00 L130.00,147.00 L210.00,147.00 L210.00,213.00 L290.00,213.00 L290.00,147.00 L370.00,147.00 L370.00,227.00 L415.00,227.00 L415.00,107.00 L85.00,107.00 Z" fill="#9DB3AA" stroke="#3F5E54" stroke-width="1.4" />
+  <path d="M85.00,243.00 L130.00,243.00 L130.00,323.00 L210.00,323.00 L210.00,257.00 L290.00,257.00 L290.00,323.00 L370.00,323.00 L370.00,243.00 L415.00,243.00 L415.00,363.00 L85.00,363.00 Z" fill="#9DB3AA" stroke="#3F5E54" stroke-width="1.4" />
+  <line x1="250.00" y1="213.00" x2="250.00" y2="257.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M250.00,213.00 L253.60,222.00 L246.40,222.00 Z" fill="#7A1F2B"/>
+  <path d="M250.00,257.00 L246.40,248.00 L253.60,248.00 Z" fill="#7A1F2B"/>
+  <text x="258.00" y="240.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="start" font-weight="600">centre</text>
+  <line x1="65.00" y1="227.00" x2="65.00" y2="243.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M65.00,227.00 L68.60,236.00 L61.40,236.00 Z" fill="#7A1F2B"/>
+  <path d="M65.00,243.00 L61.40,234.00 L68.60,234.00 Z" fill="#7A1F2B"/>
+  <text x="57.00" y="240.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="end" font-weight="600">left</text>
+  <line x1="435.00" y1="227.00" x2="435.00" y2="243.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M435.00,227.00 L438.60,236.00 L431.40,236.00 Z" fill="#7A1F2B"/>
+  <path d="M435.00,243.00 L431.40,234.00 L438.60,234.00 Z" fill="#7A1F2B"/>
+  <text x="443.00" y="240.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="start" font-weight="600">right</text>
+  <text x="250.00" y="40.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#6B7378" text-anchor="middle" font-weight="500">Gap = [left, centre, right], in mm</text>
+  <text x="560.00" y="120.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#22262A" text-anchor="start" font-weight="500">The two halves sit apart by the</text>
+  <text x="560.00" y="143.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#22262A" text-anchor="start" font-weight="500">smallest of the three gaps.</text>
+  <text x="560.00" y="166.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#22262A" text-anchor="start" font-weight="500"></text>
+  <text x="560.00" y="189.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#22262A" text-anchor="start" font-weight="500">A leg with a larger gap is</text>
+  <text x="560.00" y="212.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#22262A" text-anchor="start" font-weight="500">ground shorter: in a set the cut</text>
+  <text x="560.00" y="235.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#22262A" text-anchor="start" font-weight="500">is shared by both halves; with a</text>
+  <text x="560.00" y="258.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#22262A" text-anchor="start" font-weight="500">plate it is all in the E piece.</text>
+  <text x="560.00" y="281.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#22262A" text-anchor="start" font-weight="500"></text>
+  <text x="560.00" y="304.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#22262A" text-anchor="start" font-weight="500">RZ cores: two values, outer</text>
+  <text x="560.00" y="327.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#22262A" text-anchor="start" font-weight="500">legs and centre post.</text>
+  <text x="560.00" y="350.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#22262A" text-anchor="start" font-weight="500">IPT: one value, the distance</text>
+  <text x="560.00" y="373.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#22262A" text-anchor="start" font-weight="500">between the two pads.</text>
+</svg>

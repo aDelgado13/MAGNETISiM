@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 400" width="820" height="400" role="img" aria-label="Why XY and RZ: two ways FEMM turns a 3D core into a 2D problem">
+  <title>Why XY and RZ: two ways FEMM turns a 3D core into a 2D problem</title>
+  <rect width="820" height="400" rx="10" fill="#FFFFFF"/>
+  <path d="M70,120 L140,78.0 L370,78.0 L300,120 Z" fill="#B9CCC4" stroke="#3F5E54" stroke-width="1.4" />
+  <path d="M300,120 L370,78.0 L370,228.0 L300,270 Z" fill="#B9CCC4" stroke="#3F5E54" stroke-width="1.4" />
+  <path d="M70.00,120.00 L102.20,120.00 L102.20,213.00 L156.25,213.00 L156.25,120.00 L213.75,120.00 L213.75,213.00 L267.80,213.00 L267.80,120.00 L300.00,120.00 L300.00,270.00 L70.00,270.00 Z" fill="#9DB3AA" stroke="#3F5E54" stroke-width="1.4" />
+  <line x1="308.00" y1="278.00" x2="378.00" y2="236.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M378.00,236.00 L372.13,243.72 L368.43,237.54 Z" fill="#7A1F2B"/>
+  <text x="365.00" y="286.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#7A1F2B" text-anchor="start" font-weight="600">depth F</text>
+  <text x="220.00" y="50.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#22262A" text-anchor="middle" font-weight="600">XY (planar)</text>
+  <text x="220.00" y="330.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#22262A" text-anchor="middle" font-weight="500">The cut is extruded with depth F.</text>
+  <text x="220.00" y="352.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#6B7378" text-anchor="middle" font-weight="500">E, EI, U, EL, planar E…</text>
+  <line x1="560.00" y1="70.00" x2="560.00" y2="300.00" stroke="#6B7378" stroke-width="1.2" stroke-dasharray="10 5 2 5"/>
+  <path d="M560.00,110.00 L608.00,110.00 L608.00,205.00 L675.00,205.00 L675.00,110.00 L710.00,110.00 L710.00,260.00 L560.00,260.00 Z" fill="#9DB3AA" stroke="#3F5E54" stroke-width="1.4" />
+  <path d="M490,282 A70,18 0 1,0 630,282" fill="none" stroke="#7A1F2B" stroke-width="1.3"/>
+  <path d="M630.00,282.00 L632.25,291.54 L625.05,290.46 Z" fill="#7A1F2B"/>
+  <text x="600.00" y="286.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#7A1F2B" text-anchor="start" font-weight="600">revolved</text>
+  <text x="620.00" y="50.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#22262A" text-anchor="middle" font-weight="600">RZ (axisymmetric)</text>
+  <text x="620.00" y="330.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#22262A" text-anchor="middle" font-weight="500">Half section revolved around z.</text>
+  <text x="620.00" y="352.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#6B7378" text-anchor="middle" font-weight="500">P, PQ, RM, ETD, EQ, EER…</text>
+</svg>

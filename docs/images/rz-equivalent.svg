@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 480" width="820" height="480" role="img" aria-label="RZ equivalent: A is replaced so that the outer legs keep their real area">
+  <title>RZ equivalent: A is replaced so that the outer legs keep their real area</title>
+  <rect width="820" height="480" rx="10" fill="#FFFFFF"/>
+  <clipPath id="clip-rzequivalent"><rect x="50.00" y="135.00" width="300.00" height="190.00"/></clipPath>
+  <rect x="50.00" y="135.00" width="300.00" height="190.00" fill="#9DB3AA" stroke="#3F5E54" stroke-width="1.4" />
+  <g clip-path="url(#clip-rzequivalent)"><circle cx="200" cy="230" r="115.00" fill="#FFFFFF" stroke="#3F5E54" stroke-width="1.4"/><rect x="140.00" y="133.00" width="120.00" height="194.00" fill="#FFFFFF"/></g>
+  <circle cx="200" cy="230" r="45.00" fill="#9DB3AA" stroke="#3F5E54" stroke-width="1.4"/>
+  <text x="200.00" y="40.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#6B7378" text-anchor="middle" font-weight="500">Real top view (ETD)</text>
+  <line x1="50.00" y1="325.00" x2="50.00" y2="365.00" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="350.00" y1="325.00" x2="350.00" y2="365.00" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="50.00" y1="359.00" x2="350.00" y2="359.00" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M50.00,359.00 L59.00,355.40 L59.00,362.60 Z" fill="#7A1F2B"/>
+  <path d="M350.00,359.00 L341.00,362.60 L341.00,355.40 Z" fill="#7A1F2B"/>
+  <text x="200.00" y="377.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="middle" font-weight="600">A</text>
+  <circle cx="600" cy="230" r="134.70" fill="#9DB3AA" stroke="#3F5E54" stroke-width="1.4"/>
+  <circle cx="600" cy="230" r="115.00" fill="#FFFFFF" stroke="#3F5E54" stroke-width="1.4"/>
+  <circle cx="600" cy="230" r="45.00" fill="#9DB3AA" stroke="#3F5E54" stroke-width="1.4"/>
+  <line x1="465.30" y1="230.00" x2="465.30" y2="404.70" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="734.70" y1="230.00" x2="734.70" y2="404.70" stroke="#7A1F2B" stroke-width="0.8" stroke-dasharray="3 3"/>
+  <line x1="465.30" y1="398.70" x2="734.70" y2="398.70" stroke="#7A1F2B" stroke-width="1.2"/>
+  <path d="M465.30,398.70 L474.30,395.10 L474.30,402.30 Z" fill="#7A1F2B"/>
+  <path d="M734.70,398.70 L725.70,402.30 L725.70,395.10 Z" fill="#7A1F2B"/>
+  <text x="600.00" y="416.70" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#7A1F2B" text-anchor="middle" font-weight="600">A equivalent</text>
+  <text x="600.00" y="40.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#6B7378" text-anchor="middle" font-weight="500">What FEMM revolves: a full ring</text>
+  <text x="407.65" y="235.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" fill="#7A1F2B" text-anchor="middle" font-weight="600">→</text>
+  <text x="410.00" y="462.00" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#6B7378" text-anchor="middle" font-weight="500">Same area of outer leg in both views; D (and I) are adjusted in the same way.</text>
+</svg>

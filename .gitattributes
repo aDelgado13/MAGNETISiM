@@ -1,0 +1,18 @@
+# Line endings and binary files.
+# Python sources are checked out with CRLF (like the rest of the project); Git stores them with LF.
+*.py    text eol=crlf
+
+# Markdown, YAML and JSON: LF everywhere (GitHub reads issue forms as YAML).
+*.md    text eol=lf
+*.yml   text eol=lf
+*.yaml  text eol=lf
+*.json  text eol=lf
+*.cff   text eol=lf
+
+# Spreadsheets and images: never converted, never diffed as text.
+*.xlsx  binary
+*.png   binary
+*.PNG   binary
+
+# SVG figures: LF, so the files are the same on every machine.
+*.svg   text eol=lf

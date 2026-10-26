@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this library or MAGNETISiM in your work, please cite the paper below."
+title: "MAGNETISiM community library"
+authors:
+  - given-names: "Alberto"
+    family-names: "Delgado"
+    email: "a.delgado@upm.es"
+    affiliation: "Universidad Politécnica de Madrid"
+  - given-names: "Alberto"
+    family-names: "Vital"
+    affiliation: "Universidad Politécnica de Madrid"
+  - given-names: "Daniel"
+    family-names: "Ríos"
+    affiliation: "Universidad Politécnica de Madrid"
+  - given-names: "Pedro"
+    family-names: "Alou"
+    affiliation: "Universidad Politécnica de Madrid"
+  - given-names: "Miroslav"
+    family-names: "Vasić"
+    affiliation: "Universidad Politécnica de Madrid"
+  - given-names: "Regina"
+    family-names: "Ramos"
+    affiliation: "Universidad Politécnica de Madrid"
+license: CC-BY-NC-SA-4.0
+url: "https://www.magnetisim.com"
+repository-code: "https://github.com/aDelgado13/MAGNETISiM"
+preferred-citation:
+  type: conference-paper
+  title: "Core and Winding Modeling in MAGNETISiM: a Platform For Fast Prototyping of Magnetic Components"
+  authors:
+    - given-names: "Alberto"
+      family-names: "Vital"
+      affiliation: "Universidad Politécnica de Madrid"
+    - given-names: "Alberto"
+      family-names: "Delgado"
+      affiliation: "Universidad Politécnica de Madrid"
+  collection-title: "14th European Space Power Conference (ESPC 2026)"
+  conference:
+    name: "14th European Space Power Conference (ESPC 2026)"
+    city: "Estoril"
+    country: PT
+  year: 2026
